@@ -1,0 +1,2 @@
+void appSetup();
+void appLoop();
