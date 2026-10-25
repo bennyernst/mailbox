@@ -154,5 +154,5 @@ void appLoop() {
   Serial.printf("A: %d mm     B: %d mm\n", distanceA, distanceB);
 
 
-  delay(250);
+  delay(20);
 }

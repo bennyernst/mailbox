@@ -1,3 +1,12 @@
+/*
+ * Much of this webhook routine is adapted from:
+ * "Send a Message on Discord" by Rémi Sarrailh
+ * Tutorial: https://www.hackster.io/usini/send-a-message-on-discord-f216e0
+ * Original Repository: https://github.com/remisarrailh/discord_test
+ *
+ * Modified and integrated for use with the mailbox project.
+ */
+
 #include <WiFi.h>
 #include <WiFiMulti.h>
 #include <HTTPClient.h>
